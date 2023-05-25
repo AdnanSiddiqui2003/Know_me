@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AdnanSiddiqui2003/Know_me.git/static/css/main.8a575b2b.css",
+    "main.js": "/AdnanSiddiqui2003/Know_me.git/static/js/main.809b6f71.js",
+    "static/js/787.8a3dfda7.chunk.js": "/AdnanSiddiqui2003/Know_me.git/static/js/787.8a3dfda7.chunk.js",
+    "static/media/me.png": "/AdnanSiddiqui2003/Know_me.git/static/media/me.fe8982c8b67457ebba1f.png",
+    "static/media/img1.png": "/AdnanSiddiqui2003/Know_me.git/static/media/img1.59faa891ddfbe3ad15ad.png",
+    "index.html": "/AdnanSiddiqui2003/Know_me.git/index.html",
+    "main.8a575b2b.css.map": "/AdnanSiddiqui2003/Know_me.git/static/css/main.8a575b2b.css.map",
+    "main.809b6f71.js.map": "/AdnanSiddiqui2003/Know_me.git/static/js/main.809b6f71.js.map",
+    "787.8a3dfda7.chunk.js.map": "/AdnanSiddiqui2003/Know_me.git/static/js/787.8a3dfda7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a575b2b.css",
+    "static/js/main.809b6f71.js"
+  ]
+}
